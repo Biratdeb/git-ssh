@@ -1,0 +1,1 @@
+if the ssh key does not working or cannot become connected with the internet or display connection time out when you want to check the ssh connection then add this config file with the code. this will resolve correctly the issue.
